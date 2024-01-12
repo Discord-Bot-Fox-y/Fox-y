@@ -1,6 +1,5 @@
 # Fox-y Bot
 
-*Note: THIS BOT IS PRIVATE DO NOT PUBLISH*
 
 Too run this code:
 
